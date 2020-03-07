@@ -1,0 +1,39 @@
+body{
+    background-color: #fdde7e;
+    font-family: 'Ropa Sans', sans-serif;;
+}
+#main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.side{
+    background-color: white;
+    width: 28%;
+    height: 35vw;
+    margin: 1%;
+}
+.center{
+    background-color: white;
+    width: 28%;
+    margin: 1%;
+    height: 40vw;    
+}
+.price{
+    color: #02995b;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+}
+img{
+    margin: 5% 30% 2% 30%
+}
+h3{
+    color: #333333;
+    text-align: center;
+    font-size: 1.5em;
+}
+p{
+    color: #333333;
+    text-align: center; 
+}
